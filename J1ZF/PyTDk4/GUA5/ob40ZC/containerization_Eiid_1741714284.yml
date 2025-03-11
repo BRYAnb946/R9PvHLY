@@ -35,6 +35,5 @@ jobs:
         - "make integration"
     - stage: "Compliance"
       name: "Fossa Check"
-      script:
         - "chmod -R a+rw . || true"
         - "fossa --option allow-unresolved:true"

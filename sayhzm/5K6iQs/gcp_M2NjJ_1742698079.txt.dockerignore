@@ -1,7 +1,6 @@
 .*
 !.git
 !.env
-Dockerfile
 build/
 .terraform/
 *tfstate*

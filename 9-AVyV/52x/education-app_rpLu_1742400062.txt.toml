@@ -9,7 +9,6 @@ test_patterns = [
 
 exclude_patterns = [
   "migrations/**.py",
-  "dist/**.js"
 ]
 
 [[analyzers]]

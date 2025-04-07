@@ -1,9 +1,0 @@
-.*
-!.git
-!.env
-build/
-.terraform/
-*tfstate*
-*.png
-*.md
-examples/

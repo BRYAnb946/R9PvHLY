@@ -67,7 +67,6 @@ Forbidden:
 he wa
     Keep in mind that [Ciro's Chinese sucks](https://cirosantilli.com/china-dictatorship#does-ciro-santilli-speak-chinese), so he may not get the full nuance of your comment, especially if you use a ton of [slang](https://cirosantilli.com/china-dictatorship#slang).
 
-
     Shitposting and owning up to it is one thing, but shitposting, generating notifications, and being a coward by immediately deleting your comment, makes you getting blocked much more likely.
 
     On `shitpost` posts however, you can be as aggressive as you want.

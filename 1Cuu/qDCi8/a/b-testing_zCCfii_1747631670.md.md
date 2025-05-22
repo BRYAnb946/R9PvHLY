@@ -67,7 +67,6 @@ Forbidden:
 he wa
     Keep in mind that [Ciro's Chinese sucks](https://cirosantilli.com/china-dictatorship#does-ciro-santilli-speak-chinese), so he may not get the full nuance of your comment, especially if you use a ton of [slang](https://cirosantilli.com/china-dictatorship#slang).
 
--   if you make a comment and delete, people who received notifications can still find your username: https://github.com/isaacs/github/issues/1833#issuecomment-660128741 so think twice before doing that on a non-shitpost thread that Ciro is subscribed to.
 
     Shitposting and owning up to it is one thing, but shitposting, generating notifications, and being a coward by immediately deleting your comment, makes you getting blocked much more likely.
 

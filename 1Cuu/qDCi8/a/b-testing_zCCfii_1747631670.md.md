@@ -75,7 +75,6 @@ Punitive measures, from least serious to most serious:
 -   block user on one website. This may have the unintended side effect of deleting previous useful comments the user made on the websites. 
 
 -   delete comment or vandalize the user's post.
-
     Actually, the main reason Ciro Santilli bans non-notification generators is not that he gives a fuck about the insults, but rather that he wants to prevent the OP from editing away his amazing post vandalisms.
 
     These will be tracked under: https://github.com/cirosantilli/china-dictatorship/labels/vandalized

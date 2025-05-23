@@ -45,7 +45,6 @@ Forbidden:
 
     But if you start creating lots of boring shitposts, you are in danger of getting blocked.
 
-    As a rule of thumb, three immediate idiotic new issues gets you blocked, tracking those under: https://github.com/cirosantilli/china-dictatorship/labels/spam
 
     So instead of creating multiple boring shitposts, please just edit your initial boring shitpost, or add new comments there.
 

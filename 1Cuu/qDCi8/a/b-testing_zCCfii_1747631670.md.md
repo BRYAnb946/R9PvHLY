@@ -19,7 +19,6 @@ Furthermore, not banning such users has the following advantages:
 * when China becomes a democracy, such issues will help secret services/activist groups expose the true identities of these people
 
 The only time I have come to you myself asking for a ban was when [users were creating a deleting accounts to overcome my blocks](https://github.com/cirosantilli/china-dictatorship/issues/191), as that generate endless work for me per wumao. But with your help + the limit new account interaction setting, that went away.
-
 Sorry for giving you the regular extra work of reviewing wumao flags trying to take down this repo every so often, and thanks for letting me keep it up so far, I really respect GitHub for that.
 
 All best.

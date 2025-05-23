@@ -2,7 +2,6 @@
 
 No matter how rude, I strongly believe that insulting is an important part of freedom of speech.
 
-As such, I must say that I am against the deletion of user's accounts based on anything they say on this repository (or anywhere else, unless it is truly illegal information).
 
 My skin is very thick, and I don't care at all about it.
 

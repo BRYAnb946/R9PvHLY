@@ -57,7 +57,6 @@ Forbidden:
     But as long as you follow our [shitiquette](https://en.wikipedia.org/wiki/Etiquette), you should be fine.
 
 -   [Evil West](https://cirosantilli.com/china-dictatorship#evil-west) posts are OK, but they *must* explain why you think a dictatorship would better solve the problem.
-
     Further rationale at: https://cirosantilli.com/china-dictatorship#bias
 
 -   swearing/being very aggressive on a [`not-shitpost`](https://cirosantilli.com/china-dictatorship#shitpost) post.

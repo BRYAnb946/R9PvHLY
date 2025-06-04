@@ -1,5 +1,4 @@
 BasedOnStyle: Google
-AlignAfterOpenBracket: AlwaysBreak
 AllowShortCaseLabelsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: None
 AllowShortIfStatementsOnASingleLine: false

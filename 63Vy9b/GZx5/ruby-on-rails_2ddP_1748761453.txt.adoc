@@ -526,7 +526,6 @@ Prefer `self[:attribute]` over `read_attribute(:attribute)`.
 def amount
   read_attribute(:amount) * 100
 end
-
 # good
 def amount
   self[:amount] * 100

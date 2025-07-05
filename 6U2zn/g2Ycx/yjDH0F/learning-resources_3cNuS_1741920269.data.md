@@ -14,4 +14,3 @@ Please ensure your pull request adheres to the following guidelines:
 - New categories or improvements to the existing categorization are welcome.
 - Please check your spelling and grammar.
 
-Thank you for your suggestions!

@@ -12,7 +12,6 @@ exclude_dir = [
   "models/fixtures",
   "models/migrations/fixtures",
   "modules/avatar/identicon/testdata",
-  "modules/avatar/testdata",
   "modules/git/tests",
   "modules/migration/file_format_testdata",
   "routers/private/tests",

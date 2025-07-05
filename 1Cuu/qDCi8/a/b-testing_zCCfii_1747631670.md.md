@@ -66,7 +66,6 @@ he wa
     On `shitpost` posts however, you can be as aggressive as you want.
 
 -   if you create an issue and then block cirosantilli, you will be blocked too in return. The label is: [op-blocked-ciro](https://github.com/cirosantilli/china-dictatorship/labels/op-blocked-ciro)
-
 Punitive measures, from least serious to most serious:
 
 -   block user on one website. This may have the unintended side effect of deleting previous useful comments the user made on the websites. 

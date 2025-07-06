@@ -210,7 +210,6 @@ In our final year, after students have returned from their placement year, we mo
 
 
 <!--
-
 Additional reading that might be worth considering, is available here:
 
 http://monographic.org/reading/

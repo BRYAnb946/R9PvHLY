@@ -1684,7 +1684,6 @@ Prefer Active Support's `exclude?` over Ruby's negated `include?`.
 !array.include?(2)
 !hash.include?(:key)
 !string.include?('substring')
-
 # good
 array.exclude?(2)
 hash.exclude?(:key)

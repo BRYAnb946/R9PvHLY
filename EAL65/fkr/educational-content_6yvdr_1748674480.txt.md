@@ -190,7 +190,6 @@ In our final year, after students have returned from their placement year, we mo
 
 + Long, J., 2013. [Design Evolution.](http://www.fivesimplesteps.com/products/design-evolution) Penarth: Five Simple Steps.
 + Hall, E., 2013. [Just Enough Research.](http://www.abookapart.com/products/just-enough-research) New York: A Book Apart.
-+ Chimero, F., 2011. [The Shape of Design.](http://shapeofdesignbook.com) New York: Frank Chimero (Kickstarter Funded Publication).
 + Zambonini, D., 2012. [A Practical Guide to Web App Success.](http://www.fivesimplesteps.com/products/web-app-success) Penarth: Five Simple Steps.
 
 

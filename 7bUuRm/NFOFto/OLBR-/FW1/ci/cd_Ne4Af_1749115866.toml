@@ -6,7 +6,6 @@ pre_cmd = ["killall -9 gitea 2>/dev/null || true"] # kill off potential zombie p
 cmd = "make --no-print-directory backend"
 bin = "gitea"
 include_ext = ["go", "tmpl"]
-include_file = ["main.go"]
 include_dir = ["cmd", "models", "modules", "options", "routers", "services"]
 exclude_dir = [
   "models/fixtures",

@@ -82,6 +82,5 @@ Constructive disagreement will never be interfered with.
 
 If you wish to appeal a punitive measure, please contact me through some unblocked method, and your request will be reviewed. "I'm sorry I got mad that time" will get you out of jail for first time offenders.
 
-I will not reply anything non-trivial on Chinese websites, since all of those will be taken down sooner or later, therefore wasting my time. I will just tell you to recontact on a non-Chinese website, or re-post your question with the answer on a Western website.
 
 If OP someone shitposts on GitHub and gets blocked, I will just make that clear by taking a web archive, posting a link on my comment, and setting the `op-block` label on the person's post: https://github.com/cirosantilli/china-dictatorship/labels/op-block

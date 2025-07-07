@@ -27,7 +27,6 @@ Forbidden:
 
 -   don't at mention @cirosantilli (or other unsubscribed users) unless there is moderation need.
 
-    If Ciro unsubscribed from a thread, it means that he does not want to reply there anymore.
 
     Create a new issues instead if you are arriving at a thread created by someone else and a have a new relevant point.
 

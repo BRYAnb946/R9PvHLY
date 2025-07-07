@@ -50,7 +50,6 @@ In our first year, we focus on the fundamentals. We introduce students to the pr
 
 ####Recommended
 
-+ Neumeier, M., 2011. [The Brand Gap: How to Bridge the Distance Between Business Strategy and Design.](http://www.amazon.co.uk/exec/obidos/ASIN/0321348109/monographic-21) San Francisco: New Riders.
 + Wheeler, A., 2009. [Designing Brand Identity: An Essential Guide for the Whole Branding Team.](http://www.amazon.co.uk/exec/obidos/ASIN/1118099206/monographic-21) London: John Wiley & Sons.
 + Muller, J. and Weiland, K., 2011. [A5/05: Lufthansa and Graphic Design: Visual History of an Airline.](http://www.amazon.co.uk/exec/obidos/ASIN/3037782676/monographic-21) Zurich: Lars Muller Publishers.
 

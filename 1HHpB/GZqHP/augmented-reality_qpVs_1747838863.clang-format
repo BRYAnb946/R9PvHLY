@@ -1,4 +1,3 @@
 AllowShortIfStatementsOnASingleLine: false
-AllowShortLoopsOnASingleLine: false
 BinPackArguments: false
 #     https://github.com/Polymer/polymer-analyzer/pull/393

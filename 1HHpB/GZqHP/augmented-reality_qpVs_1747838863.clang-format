@@ -1,4 +1,3 @@
-BasedOnStyle: Google
 AllowShortCaseLabelsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: None
 AllowShortIfStatementsOnASingleLine: false

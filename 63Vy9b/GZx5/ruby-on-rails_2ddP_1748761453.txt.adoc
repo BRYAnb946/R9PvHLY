@@ -571,7 +571,6 @@ When naming custom validation methods, adhere to the simple rules:
  - the method name explains what it checks
  - the method is recognizable as a validation method by its name, not a predicate method
 
-[source,ruby]
 ----
 # good
 validate :expiration_date_cannot_be_in_the_past

@@ -1179,7 +1179,6 @@ To avoid such situations, boolean columns should always have a default value and
 add_column :users, :active, :boolean
 
 # good - boolean with a default value (`false` or `true`) and with restricted `NULL`
-add_column :users, :active, :boolean, default: true, null: false
 add_column :users, :admin, :boolean, default: false, null: false
 ----
 

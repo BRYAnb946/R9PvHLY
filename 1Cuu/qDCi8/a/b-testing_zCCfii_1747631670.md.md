@@ -61,7 +61,6 @@ he wa
 
     Shitposting and owning up to it is one thing, but shitposting, generating notifications, and being a coward by immediately deleting your comment, makes you getting blocked much more likely.
 
-    On `shitpost` posts however, you can be as aggressive as you want.
 
 -   if you create an issue and then block cirosantilli, you will be blocked too in return. The label is: [op-blocked-ciro](https://github.com/cirosantilli/china-dictatorship/labels/op-blocked-ciro)
 Punitive measures, from least serious to most serious:

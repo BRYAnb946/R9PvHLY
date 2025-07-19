@@ -7,7 +7,6 @@ include_ext = ["go", "tmpl"]
 include_dir = ["cmd", "models", "modules", "options", "routers", "services"]
 exclude_dir = [
   "models/fixtures",
-  "modules/avatar/identicon/testdata",
   "modules/git/tests",
   "modules/migration/file_format_testdata",
   "services/gitdiff/testdata",

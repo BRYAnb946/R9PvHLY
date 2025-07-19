@@ -19,7 +19,6 @@ In our first year, we focus on the fundamentals. We introduce students to the pr
 + Boulton, M., 2010. [A Practical Guide to Designing for the Web.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web) Penarth: Five Simple Steps.
 + Murphy, C. and Persson, N., 2008. [HTML and CSS Web Standards Solutions: A Web Standardistas’ Approach.](http://www.amazon.co.uk/exec/obidos/ASIN/1430216069/monographic-21) Berkeley: friends of ED.
 + Keith, J., 2010. [HTML5 For Web Designers.](http://www.abookapart.com/products/html5-for-web-designers) New York: A Book Apart.
-+ Cederholm, D., 2010. [CSS3 For Web Designers.](http://www.abookapart.com/products/css3-for-web-designers) New York: A Book Apart.
 
 ####Recommended
 

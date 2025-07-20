@@ -167,7 +167,6 @@ In our final year, after students have returned from their placement year, we mo
 + Armstrong, H., 2009. [Graphic Design Theory: Readings from the Field.](http://www.amazon.co.uk/exec/obidos/ASIN/1568987722/monographic-21) Princeton: Princeton Architectural Press.
 + Lupton, E. and Abbott Miller, J., 1999. [Design Writing Research: Writing on Graphic Design.](http://www.amazon.co.uk/exec/obidos/ASIN/0714838519/monographic-21) London: Phaidon.
 + Collins, H., 2010. [Creative Research: The Theory and Practice of Research for the Creative Industries.](http://www.amazon.co.uk/exec/obidos/ASIN/2940411085/monographic-21) Lausanne: Ava.
-
 ###Recommended
 
 + Truss, L., 2009. [Eats, Shoots and Leaves – The Zero Tolerance Approach to Punctuation.](http://www.amazon.co.uk/exec/obidos/ASIN/0007329067/monographic-21) London: Fourth Estate

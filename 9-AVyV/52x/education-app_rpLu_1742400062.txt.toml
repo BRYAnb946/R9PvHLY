@@ -5,7 +5,6 @@ test_patterns = [
   "test*.py",
   "*.spec.js"
 ]
-
 exclude_patterns = [
   "migrations/**.py",
 ]

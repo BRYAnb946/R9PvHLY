@@ -852,7 +852,6 @@ end
 Avoid string interpolation in queries, as it will make your code susceptible to SQL injection attacks.
 
 [source,ruby]
-----
 # bad - param will be interpolated unescaped
 Client.where("orders_count = #{params[:orders]}")
 

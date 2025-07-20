@@ -2,7 +2,6 @@ If you want to contribute to this list (please do), send me a pull request. Sinc
 
 
 Please ensure your pull request adheres to the following guidelines:
-
 - **Please make an individual pull request for each suggestion.**
 - The pull request and commit should have a useful title.
 - Please search previous suggestions before making a new one, as yours may be a duplicate.

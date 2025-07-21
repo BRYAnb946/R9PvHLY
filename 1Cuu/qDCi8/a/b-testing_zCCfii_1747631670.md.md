@@ -11,7 +11,6 @@ And conversely, you have to see things from their perspective: Chinese wumaos ar
 It is therefore only because you agree with my perspective that you have allowed this repository to stay up for so long (for which I am very thankful).
 
 The way to beat the dictatorship is to show them that we have the freedom of speech, which is what they don't have.
-
 Furthermore, not banning such users has the following advantages:
 
 * it serves as a clear demonstration of the level of radicalization of some pro-Chinese Government believers, which many people in the West haven't fully grasped

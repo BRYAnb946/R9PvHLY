@@ -1,5 +1,4 @@
 Combined Reading List
-=====================
 
 <!-- This is incomplete, I'm gathering all of the course reading lists into one, combined, list here. I hope to have this completed by close of play on Tuesday, 21 January, 2014. -->
 

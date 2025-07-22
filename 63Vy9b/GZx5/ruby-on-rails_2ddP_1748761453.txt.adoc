@@ -1457,7 +1457,6 @@ Dot-separated notation is easier to read and trace the hierarchy.
 ----
 # bad
 I18n.t :record_invalid, scope: [:activerecord, :errors, :messages]
-
 # good
 I18n.t :record_invalid, scope: 'activerecord.errors.messages'
 I18n.t 'activerecord.errors.messages.record_invalid'

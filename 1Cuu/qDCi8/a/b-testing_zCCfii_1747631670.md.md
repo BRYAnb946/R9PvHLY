@@ -72,7 +72,6 @@ Punitive measures, from least serious to most serious:
 
 -   if your title contains the words 傻逼 or any variants, and no other interesting content, a ban + vandalization is likely
 
--   ban all known accounts of an user over multiple websites
 
 Constructive disagreement will never be interfered with.
 

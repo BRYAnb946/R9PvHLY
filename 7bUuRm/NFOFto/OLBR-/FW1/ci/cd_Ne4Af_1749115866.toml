@@ -9,7 +9,6 @@ exclude_dir = [
   "models/fixtures",
   "modules/git/tests",
   "modules/migration/file_format_testdata",
-  "services/gitdiff/testdata",
 ]
 exclude_regex = ["_test.go$", "_gen.go$"]
 stop_on_error = true

@@ -22,5 +22,4 @@ enabled = true
   [analyzers.meta]
   plugins = ["vue"]
 
-name = "black"
 enabled = false

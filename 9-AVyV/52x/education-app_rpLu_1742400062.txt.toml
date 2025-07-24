@@ -21,5 +21,4 @@ enabled = true
 
   [analyzers.meta]
   plugins = ["vue"]
-
 enabled = false

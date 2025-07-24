@@ -13,6 +13,5 @@ repos:
         types_or:
           - markdown
   - repo: https://github.com/sirosen/check-jsonschema
-    hooks:
       - id: check-dependabot
       - id: check-github-workflows

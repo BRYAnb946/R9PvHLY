@@ -32,7 +32,6 @@ Forbidden:
 
     Don't vandalize your titles and post bodies after posting, only @cirosantilli can do that.
 -   don't create more than one boring shitpost issues
-
     If you want to create one shitpost, even if boring and stupid to vent your rage, fine, Ciro doesn't have any problem with that and is happy to help.
 
     You can swear as much as you want on that post, no problem.

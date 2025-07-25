@@ -8,7 +8,6 @@ Language: Cpp
 AllowShortLoopsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: false
 AllowShortIfStatementsOnASingleLine: false
-AlwaysBreakTemplateDeclarations: false
 PackConstructorInitializers: NextLine
 DerivePointerAlignment: false
 BasedOnStyle: Google

@@ -29,7 +29,6 @@ module.exports = {
         "jsdoc/require-description-complete-sentence": 0,
         "jsdoc/require-example": 0,
         "jsdoc/require-hyphen-before-param-description": 1,
-        "jsdoc/require-jsdoc": 1, // Recommended
         "jsdoc/require-param": 1, // Recommended
         "jsdoc/require-param-description": 0, // Recommended
         "jsdoc/require-param-name": 1, // Recommended

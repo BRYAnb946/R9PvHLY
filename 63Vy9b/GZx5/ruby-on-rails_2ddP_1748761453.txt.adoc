@@ -1761,7 +1761,6 @@ Don't use https://api.rubyonrails.org/classes/String.html#method-i-to_time[`Stri
 '2015-03-02 19:05:37'.to_time
 
 # good
-Time.zone.parse('2015-03-02 19:05:37') # => Mon, 02 Mar 2015 19:05:37 EET +02:00
 ----
 
 === `Time.now` [[time-now]]

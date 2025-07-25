@@ -11,7 +11,6 @@ AllowShortIfStatementsOnASingleLine: false
 AlwaysBreakTemplateDeclarations: false
 PackConstructorInitializers: NextLine
 DerivePointerAlignment: false
-PointerAlignment: Left
 BasedOnStyle: Google
 ColumnLimit: 100
 ---

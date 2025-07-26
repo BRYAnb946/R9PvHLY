@@ -191,7 +191,6 @@ In our final year, after students have returned from their placement year, we mo
 
 ###Design Presentation and Reporting
 
-####Required
 
 + Bayley, S. and Mavity, R., 2008. [Life’s a Pitch.](http://www.amazon.co.uk/exec/obidos/ASIN/0552156833/monographic-21) London: Corgi.
 + Duarte, N., 2012. [HBR Guide to Persuasive Presentations.](http://www.amazon.co.uk/exec/obidos/ASIN/1422187101/monographic-21) Harvard: Harvard Business Review.

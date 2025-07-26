@@ -1712,7 +1712,6 @@ If you're using Rails 7.0 or higher, prefer `to_fs` over `to_formatted_s`. `to_f
 
 [source,ruby]
 ----
-# bad
 time.to_formatted_s(:db)
 date.to_formatted_s(:db)
 datetime.to_formatted_s(:db)

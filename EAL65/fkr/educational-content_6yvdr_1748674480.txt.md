@@ -153,7 +153,6 @@ In our final year, after students have returned from their placement year, we mo
 ####Recommended
 
 + Kelley, T., 2002. [The Art Of Innovation: Success Through Innovation the IDEO Way.](http://www.amazon.co.uk/exec/obidos/ASIN/186197583X/monographic-21) London: Profile Books.
-+ Berkun, S., 2010. [The Myths of Innovation.](http://www.amazon.co.uk/exec/obidos/ASIN/1449389627/monographic-21) San Francisco: O'Reilly Media.
 + Friedman, V., Ed., 2013. [Smashing Book #4.](http://www.smashingmagazine.com/smashing-book-4-new-perspectives/) Freiburg: Smashing Media.
 + Shaughnessy, A., 2010. [How to Be a Graphic Designer Without Losing Your Soul.](http://www.amazon.co.uk/exec/obidos/ASIN/1856697096/monographic-21) 2nd ed. London: Laurence King Publishing.
 

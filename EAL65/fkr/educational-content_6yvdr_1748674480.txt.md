@@ -124,7 +124,6 @@ London: John Wiley & Sons.
 ###Building Digital Products
 
 ####Required
-
 + Osterwalder, A., and Pigneur, Y., 2010. [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers.](http://www.amazon.co.uk/exec/obidos/ASIN/0470876417/monographic-21) London: John Wiley & Sons.
 + Drucker, P., 2008. [Managing Oneself.](http://www.amazon.co.uk/exec/obidos/ASIN/142212312X/monographic-21) Harvard: Harvard Business Review Classics.
 + Kelley, T., 2002. [The Art Of Innovation: Success Through Innovation the IDEO Way.](http://www.amazon.co.uk/exec/obidos/ASIN/186197583X/monographic-21) London: Profile Books.

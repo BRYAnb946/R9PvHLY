@@ -6,7 +6,6 @@ ColumnLimit: 100
 ---
 Language: Cpp
 AllowShortLoopsOnASingleLine: false
-AllowShortFunctionsOnASingleLine: false
 AllowShortIfStatementsOnASingleLine: false
 PackConstructorInitializers: NextLine
 DerivePointerAlignment: false

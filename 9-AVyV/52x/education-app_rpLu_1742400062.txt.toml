@@ -13,6 +13,5 @@ enabled = true
 
 name = "javascript"
 
-  [analyzers.meta]
   plugins = ["vue"]
 enabled = false

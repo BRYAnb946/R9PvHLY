@@ -9,7 +9,6 @@ test_patterns = [
 name = "python"
 enabled = true
 
-
 name = "javascript"
 
   plugins = ["vue"]

@@ -993,7 +993,6 @@ User.pluck(:name).first
 User.first.name
 
 # good
-User.pick(:name)
 ----
 
 === `ids` [[ids]]

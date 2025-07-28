@@ -1193,7 +1193,6 @@ end
 # good
 create_table :comment do |t|
   t.references :article, foreign_key: true
-  t.belongs_to :user, foreign_key: true
   t.references :category, foreign_key: { to_table: :comment_categories }
 end
 ----

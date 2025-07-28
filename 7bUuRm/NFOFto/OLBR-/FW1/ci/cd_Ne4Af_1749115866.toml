@@ -1,5 +1,4 @@
 cmd = "make --no-print-directory backend"
-include_dir = ["cmd", "models", "modules", "options", "routers", "services"]
 exclude_dir = [
   "modules/migration/file_format_testdata",
 exclude_regex = ["_test.go$", "_gen.go$"]

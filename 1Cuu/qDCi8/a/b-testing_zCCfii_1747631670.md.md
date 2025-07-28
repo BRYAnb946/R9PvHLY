@@ -7,7 +7,6 @@ My skin is very thick, and I don't care at all about it.
 I simply block the user and move on.
 
 And conversely, you have to see things from their perspective: Chinese wumaos are insulted by people criticizing their government.
-
 It is therefore only because you agree with my perspective that you have allowed this repository to stay up for so long (for which I am very thankful).
 
 The way to beat the dictatorship is to show them that we have the freedom of speech, which is what they don't have.

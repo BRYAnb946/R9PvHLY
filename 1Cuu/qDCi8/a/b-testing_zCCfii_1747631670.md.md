@@ -19,7 +19,6 @@ Sorry for giving you the regular extra work of reviewing wumao flags trying to t
 All best.
 
 # Contributing
-Forbidden:
 
 -   don't at mention @cirosantilli (or other unsubscribed users) unless there is moderation need.
 

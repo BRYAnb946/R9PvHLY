@@ -1,6 +1,5 @@
 [build]
 cmd = "make --no-print-directory backend"
-include_ext = ["go", "tmpl"]
 include_dir = ["cmd", "models", "modules", "options", "routers", "services"]
 exclude_dir = [
   "models/fixtures",

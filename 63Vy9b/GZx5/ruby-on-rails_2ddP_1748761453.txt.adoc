@@ -49,7 +49,6 @@ asciidoctor-pdf -a allow-uri-read README.adoc
 asciidoctor README.adoc
 ----
 
-[TIP]
 ====
 Install the `rouge` gem to get nice syntax highlighting in the generated document.
 

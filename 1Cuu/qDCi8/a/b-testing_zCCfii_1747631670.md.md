@@ -1,4 +1,3 @@
-# To GitHub staff: please don't delete user's accounts due to their activity on this repo
 No matter how rude, I strongly believe that insulting is an important part of freedom of speech.
 
 

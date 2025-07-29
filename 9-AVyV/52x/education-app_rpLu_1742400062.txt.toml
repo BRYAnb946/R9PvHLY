@@ -11,4 +11,3 @@ enabled = true
 
 name = "javascript"
   plugins = ["vue"]
-enabled = false

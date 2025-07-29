@@ -5,7 +5,6 @@
 ]
 
 [[analyzers]]
-name = "python"
 enabled = true
 
 name = "javascript"

@@ -1,5 +1,4 @@
 
-test_patterns = [
   "*.spec.js"
 ]
   "migrations/**.py",

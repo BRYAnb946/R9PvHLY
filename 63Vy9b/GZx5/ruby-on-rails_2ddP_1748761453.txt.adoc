@@ -146,7 +146,6 @@ resources :photos do
   get 'search', on: :collection
 end
 ----
-
 === Many Member Collection Routes [[many-member-collection-routes]]
 
 If you need to define multiple `member/collection` routes use the alternative block syntax.

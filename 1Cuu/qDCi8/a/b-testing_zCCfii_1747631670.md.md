@@ -18,7 +18,6 @@ All best.
 
 # Contributing
 
--   don't at mention @cirosantilli (or other unsubscribed users) unless there is moderation need.
 
 
     Create a new issues instead if you are arriving at a thread created by someone else and a have a new relevant point.

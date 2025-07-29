@@ -586,7 +586,6 @@ validate :birthday_in_past
 validate :owner_has_no_other_items
 ----
 
-=== Single-attribute Validations [[single-attribute-validations]]
 
 To make validations easy to read, don't list multiple attributes per validation.
 
